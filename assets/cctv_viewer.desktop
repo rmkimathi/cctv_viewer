@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=CCTV Timeline
+Comment=CCTV Timeline is a GUI for Reolink
+Exec=/home/kimathi/.local/cctv_viewer/cctv_viewer
+Path=/home/kimathi/.local/cctv_viewer/
+Icon=cctv-viewer
+Terminal=false
+Type=Application
+Categories=CCTV;AudioVideo;AudioVideoEditing;
+StartupWMClass=cctv-viewer
